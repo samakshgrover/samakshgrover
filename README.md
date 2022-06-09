@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samakshgrover
-- 👀 I’m interested in WebDevlopment
-- 🌱 I’m currently learning Fullstack Web Devlopment
-- 💞️ I’m looking to collaborate on some projects
+- 👀 I’m a Fullstack WebDevloper
+- 🌱 I’m currently working on MERN stack
 - 📫 How to reach me you can reach me samakshgrover@gmail.com
 
 <!---
