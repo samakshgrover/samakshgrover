@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **samakshgrover@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1g40CQWHkjBFZPgkuwS1tg5TFHsRf1SI9/view?usp=sharing)
+- 📄 To know about my experiences see my [Resume](https://drive.google.com/file/d/1g40CQWHkjBFZPgkuwS1tg5TFHsRf1SI9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
